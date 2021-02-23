@@ -1,0 +1,16 @@
+The folling marker lines are expected in the submitted notebook:
+
+  [Personalization] (1 point)
+  [EDA_visual_exploration] (3 points)
+  [EDA_aq_traffic] (3 points)
+  [EDA_QoI_lockdown] (2 points)
+  [EDA_quant_traffic] (3 points)
+  [EDA_quant_QoI] (3 points)
+  [EDA_variations] (4 points)
+  [EDA_standard_dev_QoI] (3 points)
+  [EDA_low_month_QoI] (3 points)
+  [EDA_low_month_traffic] (3 points)
+  [EDA_relationships] (2 points)
+  [Predict] (6 points)
+  [Conclusion] (1 point)
+  [Poster] 
